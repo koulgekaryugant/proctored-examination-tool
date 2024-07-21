@@ -1,5 +1,5 @@
-Here is the rewritten version of the requirements, removing all the features related to subjective and practical exams:
 
+Features:
 **Authentication**
 
 * Secure Login and Registration: One-time login per user to prevent unfair means
